@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyListener", "KeyListener.csproj", "{3BB93D62-5C1F-4CD5-A2CE-ECDF09EE5068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB93D62-5C1F-4CD5-A2CE-ECDF09EE5068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB93D62-5C1F-4CD5-A2CE-ECDF09EE5068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB93D62-5C1F-4CD5-A2CE-ECDF09EE5068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB93D62-5C1F-4CD5-A2CE-ECDF09EE5068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60658031-2EBB-46EA-A0AE-0DD7272D0EB7}
+	EndGlobalSection
+EndGlobal
